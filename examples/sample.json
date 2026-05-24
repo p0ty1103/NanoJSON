@@ -1,0 +1,10 @@
+{
+  "name": "NanoJSON",
+  "version": "0.1.0",
+  "tags": ["c99", "json", "parser", "serializer"],
+  "depends_on": null,
+  "metadata": {
+    "lines_of_code": 1100,
+    "supports_utf8": true
+  }
+}

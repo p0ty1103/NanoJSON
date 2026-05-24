@@ -1,0 +1,28 @@
+# Build outputs
+build/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Coverage / profiling
+*.gcda
+*.gcno
+*.gcov
+coverage/
+*.profraw
+*.profdata
+
+# Misc
+core
+core.*
+vgcore.*
