@@ -119,7 +119,7 @@ static void test_parse_compound(void) {
     const char *json =
         "{\n"
         "  \"name\": \"Pochix1103\",\n"
-        "  \"age\": 17,\n"
+        "  \"age\": 18,\n"
         "  \"active\": true,\n"
         "  \"skills\": [\"pwn\", \"crypto\", \"rev\"],\n"
         "  \"address\": null,\n"
